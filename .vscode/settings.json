@@ -1,0 +1,6 @@
+{
+    "editor.fontSize": 14,
+    "workbench.fontAliasing": "antialiased",
+    "workbench.iconTheme": "vscode-great-icons",
+    "workbench.statusBar.visible": false
+}
